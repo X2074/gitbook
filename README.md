@@ -1,17 +1,25 @@
-# gitbook
-Qitmeer technical documentation using Gitbook
-HOW TO EDIT CONTENTS ON GITBOOK
-1. From the dashboard at the left hand you will see a QITMEER collection. Click on it and it will bring you to the collection where you choose which space or language to edit.
-2. After clicking the space at the top right corner you will see an edit button, click on it to start your editing.
-3. At the left hand side where there is the table of content hover your cusor towards there and you will see three dots click on it. You will have options to either sart a new document page or to import content from an external site or zip files.
-4. When you are done editing you will click on the merge button at the top right to merge your content so the changes can be effected.
-5. After that you will click on the publish button at the top right and publish your content "in collection".
-6. This process can also be followed if you want to create a new page in that space. you will click on create new page at the bottom left corner and then you will be given options to either import your content or to write the content from scratch.
+# Introduction :: Qitmeer Documentation
 
-HOW TO CREATE A NEW LANGUAGE OR SPACE ON GITBOOK
-1. At the left corner click the QITMEER collection then you click on create new space.
-2. At the top left name the space to the language you want and insert the flag of the language.
-3. Then you can start writing or importing contents with the instructions above.
-4. When you are done you will click on the publish button and click on the "in collection" link.
+**Bitcoin and Blockchain**
 
-NB: I will attach videos and screenshots for better understanding
+Bitcoin was born with revolution, and it opened a new world that currency issuance becomes open and fair by a cryptography-based decentralized payment network. With the arrival of 10-years birth of bitcoin, the blockchain infrastructure is facing various challenges from technical aspects. The underlying mechanism of Bitcoin, the blockchain, was found capable of playing a significant role in the financial field.
+
+a blockchain is an immutable transaction database, which maintained by peer nodes which communicated with each other within a Peer-to-Peer distributed network. For each peer, which validate and apply transactions according to a consensus protocol. The transcations grouped into blocks that linked by a hash from one block to the preceding block, aka _the chain of block_ which is the name of blockchain is coming from.
+
+**Qitmeer BlockDAG**
+
+Qitmeer regards openness,fairness, fault tolerance, scalability as the core metrics to assess a promising blockchain paradigm, and a blockchain system achieved a desirable balance among these metrics is regarded as Classical Blockchain Setting.
+
+Qitmeer use SPECTRE as its fundamental Consensus protocol. SPECTRE is a fast-confirmation and high-throughput BlockDAG protocol(Directed Acyclic Graph of blocks, a blockDAG), which guarantees high performance in a payment network. Additionally, Qitmeer introduces another high-throughput BlockDAG protocol GhostDAG, which is highlighted on unprecedentedly supporting transactions linearly ordering, to circumvent SPECTRE’s weak liveness and provide ordering service for the fair scheme of the reward system.
+
+**Qitmeer POW**
+
+Qitmeer Consensus is compliant with Classical Blockchain Setting - it could enter and leave network freely by Proof-of-Work, and the collaboration model of DAG ledger guarantees that miners gain rewards consistent with their devotion, 50% faulty tolerance as secure as bitcoin, robust scalability that is only subject to physical network limit. The mining algorithm is also a vital source of fairness other than consensus algorithm per se. Cuckoo Ring is a graph theory based proof-of-work mining algorithm and is practically ASIC resistant due to memory-hard calculation.
+
+**Qitmeer token & Islamic financial ecosystem**
+
+Qitmeer originates a UTXO-based unique token insurance scheme, which has effectively answered two main concerns: Intrinsic Value and Assets Authentication. Issuing a certain amount of assets must consume a certain amount of the native currency; moreover, entities must be warranted a license to issue assets.
+
+Qitmeer devises a family of specifications and protocols to embrace the whole Islamic financial ecosystem, such as wallet and miners. As for interoperability, Qitmeer calls for utilizing cross-chain protocols to integrate various cryptocurrencies and offer reliable off-chain smart contract services.
+
+[**Qitmeer mining difficulty adjustment**](https://github.com/objemmanuel/docs/blob/master/.gitbook/assets/qitmeer%20difficulty%20description/README.md)
