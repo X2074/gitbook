@@ -1,8 +1,8 @@
 # getBlockhashByRange :: Qitmeer 文档
 
-* [getBlockhashByRange](broken-reference)
-  * [函数名 getBlockhashByRange {start} {end}](broken-reference)
-  * [说明：获取在某区间order范围的一组Blockhash](broken-reference)
+* [getBlockhashByRange](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [函数名 getBlockhashByRange {start} {end}](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [说明：获取在某区间order范围的一组Blockhash](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
 
 ### getBlockhashByRange <a href="#getblockhashbyrange" id="getblockhashbyrange"></a>
 

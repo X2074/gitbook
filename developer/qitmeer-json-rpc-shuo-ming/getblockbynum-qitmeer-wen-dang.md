@@ -1,8 +1,8 @@
 # getBlockByNum :: Qitmeer 文档
 
-* [getBlockByNum](broken-reference)
-  * [函数名：getBlockByNum {number} {verbose} {inclTx} {fullTx}](broken-reference)
-  * [说明：](broken-reference)
+* [getBlockByNum](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [函数名：getBlockByNum {number} {verbose} {inclTx} {fullTx}](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [说明：](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
 
 ### getBlockByNum <a href="#getblockbynum" id="getblockbynum"></a>
 

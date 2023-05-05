@@ -1,8 +1,8 @@
 # getBlockV2 :: Qitmeer 文档
 
-* [getBlockV2](broken-reference)
-  * [函数名：getBlocKV2 {blockhash} {verbose} {inclTx} {fullTx}](broken-reference)
-  * [说明：根据区块hash获取区块（版本2）](broken-reference)
+* [getBlockV2](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [函数名：getBlocKV2 {blockhash} {verbose} {inclTx} {fullTx}](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [说明：根据区块hash获取区块（版本2）](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
 
 ### getBlockV2 <a href="#getblockv2" id="getblockv2"></a>
 

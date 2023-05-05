@@ -1,8 +1,8 @@
 # 获取块 :: Qitmeer 文档
 
-* [getBlock](broken-reference)
-  * [函数名：getBlock {blockhash} {verbose} {inclTx} {fullTx}](broken-reference)
-  * [说明：根据区块hash获取区块](broken-reference)
+* [getBlock](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [函数名：getBlock {blockhash} {verbose} {inclTx} {fullTx}](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
+  * [说明：根据区块hash获取区块](../../qitmeer-json-rpc-shuo-ming/broken-reference/)
 
 ### getBlock <a href="#getblock" id="getblock"></a>
 
