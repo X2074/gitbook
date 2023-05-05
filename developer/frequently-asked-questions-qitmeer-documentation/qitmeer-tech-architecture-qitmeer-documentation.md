@@ -4,7 +4,7 @@
 
 #### Architecture Chart <a href="#architecture-chart" id="architecture-chart"></a>
 
-![test](../.gitbook/assets/Achitecture.jpeg)
+![test](../../.gitbook/assets/Achitecture.jpeg)
 
 #### Architecture Expained <a href="#architecture-expained" id="architecture-expained"></a>
 

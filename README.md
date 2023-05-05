@@ -1,25 +1,26 @@
-# Introduction :: Qitmeer Documentation
+# Introduction
 
-**Bitcoin and Blockchain**
+Qitmeer Network is a public blockchain based on the MeerDAG consensus, aiming to provide comprehensive solutions for distributed applications and organizations.
 
-Bitcoin was born with revolution, and it opened a new world that currency issuance becomes open and fair by a cryptography-based decentralized payment network. With the arrival of 10-years birth of bitcoin, the blockchain infrastructure is facing various challenges from technical aspects. The underlying mechanism of Bitcoin, the blockchain, was found capable of playing a significant role in the financial field.
+As a community-driven public chain, Qitmeer Network adheres to the concept of openness and inclusiveness, and is committed to building an ecologically prosperous, decentralized, high-performance public blockchain by allowing users and open source developers to become dominant through open collaboration, privacy protection, and ecological co-construction. It makes important contributions to the future digital economy and Islamic finance, and becomes a multi-industry, multi-scene, multi-application integrated solution provider, laying a solid foundation and a new paradigm for the web3 market.
 
-a blockchain is an immutable transaction database, which maintained by peer nodes which communicated with each other within a Peer-to-Peer distributed network. For each peer, which validate and apply transactions according to a consensus protocol. The transcations grouped into blocks that linked by a hash from one block to the preceding block, aka _the chain of block_ which is the name of blockchain is coming from.
+Qitmeer Network has the following advantages:
 
-**Qitmeer BlockDAG**
+1. High Performance and Scalability
 
-Qitmeer regards openness,fairness, fault tolerance, scalability as the core metrics to assess a promising blockchain paradigm, and a blockchain system achieved a desirable balance among these metrics is regarded as Classical Blockchain Setting.
+Qitmeer Network adopts the revolutionary MeerDAG consensus protocol and Layer1+layer2 multi-layer network structure to support horizontal and vertical scaling, providing higher performance and scalability to meet users' needs better..
 
-Qitmeer use SPECTRE as its fundamental Consensus protocol. SPECTRE is a fast-confirmation and high-throughput BlockDAG protocol(Directed Acyclic Graph of blocks, a blockDAG), which guarantees high performance in a payment network. Additionally, Qitmeer introduces another high-throughput BlockDAG protocol GhostDAG, which is highlighted on unprecedentedly supporting transactions linearly ordering, to circumvent SPECTRE’s weak liveness and provide ordering service for the fair scheme of the reward system.
+2. &#x20;High security and decentralization
 
-**Qitmeer POW**
+Qitmeer Network combines the PoW consensus mechanism and adopts the mature and stable Meer Keccak workload proof algorithm to comprehensively improve the decentralization and security of the blockchain through a distributed node network.
 
-Qitmeer Consensus is compliant with Classical Blockchain Setting - it could enter and leave network freely by Proof-of-Work, and the collaboration model of DAG ledger guarantees that miners gain rewards consistent with their devotion, 50% faulty tolerance as secure as bitcoin, robust scalability that is only subject to physical network limit. The mining algorithm is also a vital source of fairness other than consensus algorithm per se. Cuckoo Ring is a graph theory based proof-of-work mining algorithm and is practically ASIC resistant due to memory-hard calculation.
+3. Strong EVM compatibility
 
-**Qitmeer token & Islamic financial ecosystem**
+The QNG network on Qitmeer Network is compatible with all EVM smart contracts. It is a pluggable smart contract execution engine under the MeerDAG consensus, supports the contract development ecology of Ethereum, and opens the door for the expansion of Qitmeer's smart contract application ecology.
 
-Qitmeer originates a UTXO-based unique token insurance scheme, which has effectively answered two main concerns: Intrinsic Value and Assets Authentication. Issuing a certain amount of assets must consume a certain amount of the native currency; moreover, entities must be warranted a license to issue assets.
+4. Excellent ecosystem
 
-Qitmeer devises a family of specifications and protocols to embrace the whole Islamic financial ecosystem, such as wallet and miners. As for interoperability, Qitmeer calls for utilizing cross-chain protocols to integrate various cryptocurrencies and offer reliable off-chain smart contract services.
+&#x20;    Qitmeer Network has abundant scenarios, including AIGC, games, finance, digital identity, supply chain and many other fields, as well as a rich developer community, hundreds of thousands of eco-users and application ecosystems, providing a solid foundation and support for its long-term development.
 
-[**Qitmeer mining difficulty adjustment**](https://github.com/objemmanuel/docs/blob/master/.gitbook/assets/qitmeer%20difficulty%20description/README.md)
+\
+\

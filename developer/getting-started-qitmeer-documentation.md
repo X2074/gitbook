@@ -1,7 +1,7 @@
 # Getting Started :: Qitmeer Documentation
 
 * Prerequisites
-  * [Introduction](./)
+  * [Introduction](broken-reference)
   * [Development Environment](tutorials/development-environment-qitmeer-documentation.md)
 * Run Qitmeer
   * [Install](tutorials/qitmeer-installation-qitmeer-documentation.md)
